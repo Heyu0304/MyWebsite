@@ -7,4 +7,5 @@
         顺便写一下自己说用到的技术
         React+webpack+react-router+antd
 ## 首先遇到的困难吧
-        图片的导入部分，在webpack中，如果你想插入一张本地图片，在<img url="">直接
+        图片的导入部分，在webpack中，如果你想插入一张本地图片，在<img url="">直接插入地址是没有效果的<br>
+        需要用require来倒入 const logo = require("../img/logo.jpg");
