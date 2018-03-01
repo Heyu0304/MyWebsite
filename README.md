@@ -22,4 +22,7 @@
   background-repeat:no-repeat; background-size:100% 100%;-moz-background-size:100% 100%;
 http://blog.csdn.net/chenqk_123/article/details/44402355
  
+ # 三：Github 
+ + 最近遇到了一些麻烦，很是纠结，关于Github 上边的api接口，已经升级为V4版本，但是网上关于V4的介绍还是少了点。<br>
+ 前后端交互的问题还是没有遇到过，如果我用V3版本应该导出来没问题。还是慢慢摸索。
         
